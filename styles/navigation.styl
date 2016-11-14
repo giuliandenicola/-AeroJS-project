@@ -1,0 +1,28 @@
+nav
+  background black
+  
+.fadeEffect
+  opacity 1
+  -webkit-transform rotateY(0) translateX(0)
+  transform rotateY(0) translateX(0)
+
+.navItem
+  color lightgrey
+  font-size 5rem
+  letter-spacing 1px
+  padding 0 1.5rem
+  opacity 1
+  -webkit-backface-visibility hidden
+  backface-visibility hidden
+  -webkit-transform rotateY(-90deg) translateX(0)
+  transform rotateY(-90deg) translateX(0)
+  -webkit-transition all 1000ms ease
+  transition all 1000ms ease
+  will-change transform, opacity
+  &:hover
+    color grey
+
+.active
+  color grey
+  opacity 1
+  text-shadow 0 0 8px rgb(128, 128, 128, 0.5)

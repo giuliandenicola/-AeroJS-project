@@ -1,0 +1,22 @@
+{
+  "domain": "",
+  "title": "Giulian de Nicola",
+  "static": [
+    "img"
+  ],
+  "styles": [],
+  "scripts": [],
+  "fonts": [],
+  "icons": [],
+  "languages": [
+    "en"
+  ],
+  "manifest": {},
+  "redirect": {},
+  "headers": {},
+  "ports": {
+    "http": 4000,
+    "https": 4001,
+    "liveReload": 9000
+  }
+}

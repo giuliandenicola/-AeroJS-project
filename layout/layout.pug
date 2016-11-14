@@ -1,0 +1,12 @@
+doctype html
+html
+  head
+    title= app.config.title
+    meta(name='viewport', content='width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes')
+
+  body
+    nav
+      a.ajax(href='/').navItem.fadeEffect Home
+      a.ajax(href='/skills').navItem.fadeEffect Skills
+
+    main.fade#content!= content
