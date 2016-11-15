@@ -14,13 +14,13 @@ acorn@~4.0.2:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.3.tgz#1a3e850b428e73ba6b09d1cc527f5aaad4d03ef1"
 
-aero-ajax:
+aero-ajax@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/aero-ajax/-/aero-ajax-1.0.1.tgz#5a3b316ab15ea3891cf0e92e5564978bde26e304"
 
 aero@*:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/aero/-/aero-2.0.1.tgz#f70130cd9ba40ac087eff29659df73af2eb76e54"
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/aero/-/aero-2.0.2.tgz#adb833e4e135768f530ea6f4d39cedf56ab2b3e7"
   dependencies:
     autoprefixer-stylus "0.x"
     bluebird "3.x"
@@ -181,8 +181,8 @@ camelcase@^2.0.1:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-2.1.1.tgz#7c1d16d679a1bbe59ca02cacecfb011e201f5a1f"
 
 caniuse-db@^1.0.30000539, caniuse-db@^1.0.30000540:
-  version "1.0.30000580"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000580.tgz#04bf77139486b792ca42b4ab8ef0cbec00fe4640"
+  version "1.0.30000581"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000581.tgz#9a707e1cff67a36bf624636d4662ea9fe041f3a8"
 
 caseless@~0.11.0:
   version "0.11.0"
